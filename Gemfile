@@ -10,4 +10,5 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
     gem 'git-wayback-machine'
     gem 'launchy'
     gem 'rspec'
+    gem 'rubocop'
   end
